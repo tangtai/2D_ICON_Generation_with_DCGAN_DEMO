@@ -25,5 +25,6 @@ FYI: make sure you run dcgans on GPU, it took 3.2 hours to train on a 1070 GPU t
  - Working DCGAN (Done)
  - Better notes in Notebook
  - Convert to tf 2.0 when the offical version releases
+ - demo with tf.js loading trained model
 
 
